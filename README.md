@@ -55,7 +55,7 @@ As a developer, I value security. This project is:
 
     Backend: Utilizes Steam Web API and Workshop distribution protocols.
 
-    Platform: Windows 10/11
+    Platform: Windows Xp/7/10/11
 
 🤝 Contributing
 
