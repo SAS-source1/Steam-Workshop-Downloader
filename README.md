@@ -1,4 +1,5 @@
-<img width="754" height="668" alt="steam workshop downloader menu" src="https://github.com/user-attachments/assets/7fc82b67-63e5-40b5-abe1-470f3a76bfa1" />
+<img width="739" height="697" alt="steamworkshopdownloader" src="https://github.com/user-attachments/assets/09ae13fb-552f-4c3a-8920-184840089663" />
+
 
 # Steam-Workshop-Downloader
 🚀 Steam Workshop Downloader (PC)
