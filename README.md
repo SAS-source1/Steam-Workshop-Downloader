@@ -1,5 +1,4 @@
 # Steam-Workshop-Downloader
-Steam Workshop Downloader 🚀 Download any mod, map, or asset for 100,000+ supported games effortlessly. Fast, lightweight, and 100% virus-free. A secure tool designed to expand your gaming library without limits. ✅ 100k+ Games Supported ✅ Secure &amp; Clean Code ✅ Supports All Workshop Items ✅ User-Friendly Interface
 🚀 Steam Workshop Downloader (PC)
 
 A powerful, high-speed, and open-source Python tool designed to download any item from the Steam Workshop without needing the Steam client installed. With support for 100,000+ games, it is the ultimate utility for modders and gamers alike.
