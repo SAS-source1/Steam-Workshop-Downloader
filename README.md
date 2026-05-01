@@ -48,6 +48,7 @@ As a developer, I value security. This project is:
     Account Safe: We do not use your Steam account API keys or login info.
 
     Open Source: You can audit the Python source code yourself right here on GitHub.
+<img width="979" height="764" alt="Ekran görüntüsü 2026-05-01 201331" src="https://github.com/user-attachments/assets/61a98a6e-1598-49b2-9394-ac53d01e5869" />
 
 🔧 Technical Details
 
