@@ -6,7 +6,7 @@
 # Steam-Workshop-Downloader
 🚀 Steam Workshop Downloader (PC)
 
-A powerful, high-speed, and open-source Python tool designed to download any item from the Steam Workshop without needing the Steam client installed. With support for 100,000+ games, it is the ultimate utility for modders and gamers alike.
+A powerful, high-speed, and open-source Python tool designed to download any item from the Steam Workshop without needing the Steam client installed. With support for 2,000+ games, it is the ultimate utility for modders and gamers alike.
 🛠 Features
 
     Massive Compatibility: Supports over 100k+ titles (CS2, Garry's Mod, RimWorld, Project Zomboid, etc.).
